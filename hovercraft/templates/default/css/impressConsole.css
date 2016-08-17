@@ -41,13 +41,13 @@ div#notes p {
 }
 
 iframe#slideView {
-    width: 16em;
-    height: 12em;
+    width: 20em;
+    height: 15em;
 }
 
 iframe#preView {
-    width: 8em;
-    height: 6em;
+    width: 20em;
+    height: 15em;
 }
 
 div#controls {
